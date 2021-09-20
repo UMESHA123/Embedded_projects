@@ -14,3 +14,7 @@
 7. Automated Temperature controller  Displaying the Temperature data (both *C and *F) on LCD and Bluetooth app in Realtime and  whenever the temperature crosses 30*C, Actuate the relay (should be on till it will reach 25*C)  and indicate through buzzer (only 2 sec ON)  USE: LM35 temperature sensor, LCD, Relay, Bluetooth, Buzzer. 
 
 8. IR sensor enabled UP Counter  Simple UP counter starts from 0 values and when ever the object detects, the counter value  will be incremented. Print the counter values on LCD, Bluetooth app and 7Segment display  (only up to 9)  USE: IR sensor, LCD, 7 segment display, Buzzer and LED indicator.
+
+
+PROJECT --- 1
+
