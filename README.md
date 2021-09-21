@@ -50,4 +50,9 @@ PROJECT -3
 <img width="635" alt="backword image" src="https://user-images.githubusercontent.com/73009807/134138793-e359cdb9-bf60-4c7a-8f23-ccec3559c789.png">
                                                                                                                                                  
 
+<img width="133" alt="componets list" src="https://user-images.githubusercontent.com/73009807/134139529-f2099d32-a332-42b3-8f6a-e91183253aa6.png">
+
+<img width="646" alt="moter off" src="https://user-images.githubusercontent.com/73009807/134139591-ce964c54-e737-45ba-8deb-ee9737b60396.png">
+<img width="634" alt="right image" src="https://user-images.githubusercontent.com/73009807/134139623-32668ac8-77eb-4208-b925-1ea72af4d95e.png">
+<img width="167" alt="serial moniter" src="https://user-images.githubusercontent.com/73009807/134139660-030c6292-53ca-4bf0-bd17-5054e1a59ed2.png">
 
