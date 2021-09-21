@@ -74,3 +74,50 @@ https://user-images.githubusercontent.com/73009807/134141830-a8c80c28-c486-4aa4-
 https://user-images.githubusercontent.com/73009807/134141984-2b031aa9-c1b6-41aa-ad58-2765d6384edb.mp4
 
 https://drive.google.com/file/d/1-d2pq5qL6MaHBUJ5m3dFk_ipGeTYBvXf/view?usp=sharing
+<img width="992" alt="aultasonic image" src="https://user-images.githubusercontent.com/73009807/134143660-026e596a-afda-48b7-b6ae-4de5503e9cc9.png">
+
+
+PROJECT -5
+
+<img width="510" alt="circut diagram" src="https://user-images.githubusercontent.com/73009807/134143723-6522004e-74aa-49b0-9ee4-9e8aba6e734f.png">
+<img width="130" alt="components list" src="https://user-images.githubusercontent.com/73009807/134143778-06a47dee-198f-4488-9071-9dfd1a62adef.png">
+<img width="329" alt="circut 2 image" src="https://user-images.githubusercontent.com/73009807/134143792-b8f888b2-26ae-4329-9bac-d4bf124d8402.png">
+
+
+https://user-images.githubusercontent.com/73009807/134143809-375528fa-f126-438f-9970-45c4080b2a8d.mp4
+
+
+
+https://user-images.githubusercontent.com/73009807/134143829-54b4149e-bdbc-4409-9743-d959ac087ecf.mp4
+
+PROJECT -6
+
+<img width="518" alt="circut image" src="https://user-images.githubusercontent.com/73009807/134143933-77cd9fa1-2924-4bdb-bc47-a5cf1f80d2fc.png">
+
+<img width="132" alt="components list" src="https://user-images.githubusercontent.com/73009807/134143944-fadb6072-a573-4863-84f7-c18614816c6b.png">
+
+
+PROJECT -7
+
+
+<img width="467" alt="circut image" src="https://user-images.githubusercontent.com/73009807/134144025-419d9213-fa18-4373-8622-18cff4da579b.png">
+<img width="128" alt="components list" src="https://user-images.githubusercontent.com/73009807/134144040-76e4a561-b5be-40fb-8b62-77572bf1e2c5.png">
+
+
+PROJECT -8
+
+
+
+https://user-images.githubusercontent.com/73009807/134144114-f5c9b2e4-5738-4831-a1a1-0e31553a0855.mp4
+
+<img width="178" alt="devies list for ir sensor" src="https://user-images.githubusercontent.com/73009807/134144239-0a0a8455-46b0-4ea5-8d08-7c46c1f5563f.png">
+<img width="551" alt="IR Sensor circuit" src="https://user-images.githubusercontent.com/73009807/134144253-42bb8421-67ee-4c49-b1b5-0af5d1fe692c.png">
+<img width="561" alt="object not detecetd image" src="https://user-images.githubusercontent.com/73009807/134144324-24f18889-338d-420c-9d74-e1242c128817.png">
+<img width="561" alt="object not detecetd image" src="https://user-images.githubusercontent.com/73009807/134144371-0227c599-61e1-49d8-8be7-f7d1891ed4c4.png">
+<img width="197" alt="serial moniter image" src="https://user-images.githubusercontent.com/73009807/134144382-6fd3f7a7-cf7f-4cf8-982f-691bf271c71c.png">
+
+
+https://user-images.githubusercontent.com/73009807/134144407-df9a5da7-66bd-464f-9721-03576be3f76f.mp4
+
+https://drive.google.com/file/d/1A2k98OPl0W6C_yBxQqHbtzJwyMMmUM9j/view?usp=sharing
+https://drive.google.com/file/d/1ZRZblYG19pCS4vL54y9sKxxjS7VvUwWn/view?usp=sharing
