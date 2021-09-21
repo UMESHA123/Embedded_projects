@@ -23,3 +23,7 @@ PROJECT --- 1
 <img width="578" alt="motion detected1" src="https://user-images.githubusercontent.com/73009807/134133760-4ea8b77b-0683-4cef-b30f-5e3a6af2742a.png"><img width="566" alt="motion not detected" src="https://user-images.githubusercontent.com/73009807/134133790-b89baf9a-f73b-4ec2-82e5-c0962d42ba51.png">
 <img width="221" alt="serial moniter" src="https://user-images.githubusercontent.com/73009807/134133826-94f2f396-ce99-4152-877a-46172ec0e8c3.png">
 
+
+https://user-images.githubusercontent.com/73009807/134134769-ec6f299b-ff19-46d2-b796-43778854eb30.mp4
+
+
