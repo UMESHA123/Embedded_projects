@@ -104,6 +104,15 @@ PROJECT -7
 <img width="128" alt="components list" src="https://user-images.githubusercontent.com/73009807/134144040-76e4a561-b5be-40fb-8b62-77572bf1e2c5.png">
 
 
+
+<img width="509" alt="room temperature cross the 30 c image" src="https://user-images.githubusercontent.com/73009807/134163917-91a91aef-7a90-40c4-9bec-60dcabaa61c4.png">
+<img width="310" alt="serial moniter" src="https://user-images.githubusercontent.com/73009807/134163932-e1340921-6279-40c9-b3a2-53e7a1a3c737.png">
+
+
+https://drive.google.com/file/d/15E45HRS8n6Yh_Y2pO_e4HgfyZNKudzcd/view?usp=sharing
+https://drive.google.com/file/d/1j9F4eI-0FgAC083lNLQfVU4IVJX3Rsvv/view?usp=sharing
+
+
 PROJECT -8
 
 
