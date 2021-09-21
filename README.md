@@ -29,12 +29,25 @@ https://user-images.githubusercontent.com/73009807/134137902-e6afbe48-7e7b-4414-
 <img width="566" alt="motion not detected" src="https://user-images.githubusercontent.com/73009807/134133790-b89baf9a-f73b-4ec2-82e5-c0962d42ba51.png">
 <img width="221" alt="serial moniter" src="https://user-images.githubusercontent.com/73009807/134133826-94f2f396-ce99-4152-877a-46172ec0e8c3.png">
 
+PROJECT -2 
+<img width="516" alt="circute image" src="https://user-images.githubusercontent.com/73009807/134138540-7e964f69-467c-4d2b-8202-b70b5b99f458.png">
 
 
 
+<img width="131" alt="componets list" src="https://user-images.githubusercontent.com/73009807/134138560-fc10350f-d250-4b11-9523-b87cce4a7ba6.png">
+
+PROJECT -3
+
+<img width="648" alt="circute image" src="https://user-images.githubusercontent.com/73009807/134138661-4e4d29cc-e314-4be3-8816-3f3ea826735f.png">
 
 
+<img width="619" alt="left image" src="https://user-images.githubusercontent.com/73009807/134138704-c943e188-a456-4fcf-99f5-1412924bb1d5.png">
 
+
+<img width="634" alt="right image" src="https://user-images.githubusercontent.com/73009807/134138725-e<img width="133" alt="componets list" src="https://user-images.githubusercontent.com/73009807/134138829-9a0d9111-c93a-4355-824a-e68290dfba4b.png">
+2a804b9-b28e-482e-bf09-628f327612d4.png">
+<img width="637" alt="forword image" src="https://user-images.githubusercontent.com/73009807/134138759-5d5c462b-e986-4ec0-8f2a-e7139fe423c5.png">
+<img width="635" alt="backword image" src="https://user-images.githubusercontent.com/73009807/134138793-e359cdb9-bf60-4c7a-8f23-ccec3559c789.png">
 
 
 
