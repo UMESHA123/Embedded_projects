@@ -32,6 +32,8 @@ https://user-images.githubusercontent.com/73009807/134137902-e6afbe48-7e7b-4414-
 <img width="566" alt="motion not detected" src="https://user-images.githubusercontent.com/73009807/134133790-b89baf9a-f73b-4ec2-82e5-c0962d42ba51.png">
 <img width="221" alt="serial moniter" src="https://user-images.githubusercontent.com/73009807/134133826-94f2f396-ce99-4152-877a-46172ec0e8c3.png">
 
+https://drive.google.com/file/d/1XJVTdp5xu6Wx7nyYMu4MNZMetzLhb3rq/view?usp=sharing
+
 PROJECT -2 
 
 
@@ -41,9 +43,18 @@ PROJECT -2
 
 <img width="960" alt="error" src="https://user-images.githubusercontent.com/73009807/134458136-07a9064d-34ee-47c9-943a-fdb50965efaa.png">
 
+https://drive.google.com/file/d/1rkqB2rvRZu8T5CH8gmRRDlrmLvKbjfEx/view?usp=sharing
+
 
 
 PROJECT -3
+https://drive.google.com/file/d/1GH9Q7NnNfusBAQGqmAQ28IpImsohRhJ1/view?usp=sharing
+
+https://drive.google.com/file/d/1aAWR7zSb0S6ua35k8_AHEMjYhpn5i0ET/view?usp=sharing
+
+https://drive.google.com/file/d/1OwoD5vQGkUGHzCPlyD5A1H_DbEDEk1LU/view?usp=sharing
+
+https://drive.google.com/file/d/12yAo3MTnPnGKlv-SJOM9ArmG_5hbKML0/view?usp=sharing
 
 <img width="648" alt="circute image" src="https://user-images.githubusercontent.com/73009807/134138661-4e4d29cc-e314-4be3-8816-3f3ea826735f.png">
 
@@ -73,7 +84,7 @@ https://drive.google.com/file/d/1JV4NFCBGLc_qxLm3wzIKmGBwYcgeGBzI/view?usp=shari
 
 PROJECT -4
 
-
+https://drive.google.com/file/d/1uZe173_X9DlwIzpYpHqXE3x6iObjNgpR/view?usp=sharing
 
 https://user-images.githubusercontent.com/73009807/134141830-a8c80c28-c486-4aa4-926a-403ef277c1d2.mp4
 
@@ -146,7 +157,7 @@ https://drive.google.com/file/d/1RgedIawIBQiePO4tfJ1F2JjAtrJ0OHAp/view?usp=shari
 
 PROJECT -8
 
-
+https://drive.google.com/file/d/1zlW6iSegKImc_mRlCS319RFpwxim4vCQ/view?usp=sharing
 
 https://user-images.githubusercontent.com/73009807/134144114-f5c9b2e4-5738-4831-a1a1-0e31553a0855.mp4
 
@@ -167,3 +178,5 @@ https://drive.google.com/file/d/1ZRZblYG19pCS4vL54y9sKxxjS7VvUwWn/view?usp=shari
 
 
 https://drive.google.com/file/d/1kgA3RwhYGnV3fTgwCOCU9qwuL_PXCpH6/view?usp=sharing
+
+
